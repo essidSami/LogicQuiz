@@ -92,26 +92,37 @@
   },
   {
     "id": 5,
-    "question": "Qu'est-ce qui n'est pas possible sur cette illustration ?",
-    "image": "quiz1_question5.png",
-    "input": {
-      "type": "text",
-      "values": [
-        "lampe", "veilleuse", "lampadaire"
-      ]
-    }
-  },
-  {
-    "id": 6,
     "question": "Quel noeud marin n'est fait qu'avec une seule ficelle ?",
     "chooses": [
       {
-        "image": "quiz1_question6_a.png",
+        "image": "quiz1_question5_a.png",
         "is_correct": false
       },
       {
-        "image": "quiz1_question6_b.png",
+        "image": "quiz1_question5_b.png",
         "is_correct": true
+      },
+      {
+        "image": "quiz1_question5_c.png",
+        "is_correct": false
+      },
+      {
+        "image": "quiz1_question5_d.png",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Laquelle de ces photos ne peut pas être réelle ?",
+    "chooses": [
+      {
+        "image": "quiz1_question6_a.png",
+        "is_correct": true
+      },
+      {
+        "image": "quiz1_question6_b.png",
+        "is_correct": false
       },
       {
         "image": "quiz1_question6_c.png",
@@ -125,28 +136,6 @@
   },
   {
     "id": 7,
-    "question": "Laquelle de ces photos ne peut pas être réelle ?",
-    "chooses": [
-      {
-        "image": "quiz1_question7_a.png",
-        "is_correct": true
-      },
-      {
-        "image": "quiz1_question7_b.png",
-        "is_correct": false
-      },
-      {
-        "image": "quiz1_question7_c.png",
-        "is_correct": false
-      },
-      {
-        "image": "quiz1_question7_d.png",
-        "is_correct": false
-      }
-    ]
-  },
-  {
-    "id": 8,
     "question": "Quel mot vient logiquement compléter cette suite ?",
     "text": "Navet\nVêtement\nMentir\nTiramisu\n?",
     "chooses": [
@@ -169,7 +158,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "question": "Quel mot est JUSTE si on le met dans le bon ordre ?",
     "chooses": [
       {
@@ -191,7 +180,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 9,
     "question": "Un fermier a 10 moutons. Il les donne tous sauf 6.\n Combien lui en reste-t-il ?",
     "input": {
       "type": "number",
@@ -201,7 +190,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 10,
     "question": "? eniames 1 snad no-t-etpmoc sruoj ed neibmoC",
     "input": {
       "type": "number",
@@ -211,7 +200,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 11,
     "question": "Dans quel sens faut-il tourner l'engrenage rouge pour rembobiner le tuyau d'arrosage ?",
     "image": "quiz1_question12.png",
     "chooses": [
