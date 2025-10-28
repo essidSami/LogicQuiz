@@ -27,7 +27,7 @@
     "id": 2,
     "question": "Quelle forme auront les tranches de cette brioche ?",
     "image": "quiz1_question2.png",
-    "type": "3",
+    "type": "1",
     "answers": [
       {
         "image": "quiz1_question2_a.png",
@@ -51,7 +51,7 @@
     "id": 3,
     "question": "Quel ensemble peut-on composer à partir de ces neuf formes ?",
     "image": "quiz1_question3.png",
-    "type": "3",
+    "type": "1",
     "answers": [
       {
         "image": "quiz1_question3_a.png",
@@ -74,7 +74,7 @@
   {
     "id": 4,
     "question": "Qu'est ce qui est faux parmi ces quatre images ?",
-    "type": "3",
+    "type": "1",
     "answers": [
       {
         "image": "quiz1_question4_a.png",
@@ -112,7 +112,7 @@
     "id": 6,
     "question": "Quel noeud marin n'est fait qu'avec une seule ficelle ?",
     "image": "quiz1_question6.png",
-    "type": "3",
+    "type": "1",
     "answers": [
       {
         "image": "quiz1_question6_a.png",
@@ -135,7 +135,7 @@
   {
     "id": 7,
     "question": "Laquelle de ces photos ne peut pas être réelle ?",
-    "type": "3",
+    "type": "1",
     "answers": [
       {
         "image": "quiz1_question7_a.png",
