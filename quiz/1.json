@@ -104,7 +104,6 @@
   {
     "id": 6,
     "question": "Quel noeud marin n'est fait qu'avec une seule ficelle ?",
-    "image": "quiz1_question6.png",
     "chooses": [
       {
         "image": "quiz1_question6_a.png",
