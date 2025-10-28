@@ -3,8 +3,7 @@
     "id": 1,
     "question": "Que donnera-t-on en connectant tous ces points dans l'ordre approprié ?",
     "image": "quiz1_question1.png",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "text": "Un Cercle",
         "is_correct": false
@@ -27,8 +26,7 @@
     "id": 2,
     "question": "Quelle forme auront les tranches de cette brioche ?",
     "image": "quiz1_question2.png",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "image": "quiz1_question2_a.png",
         "is_correct": false
@@ -51,8 +49,7 @@
     "id": 3,
     "question": "Quel ensemble peut-on composer à partir de ces neuf formes ?",
     "image": "quiz1_question3.png",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "image": "quiz1_question3_a.png",
         "is_correct": false
@@ -74,8 +71,7 @@
   {
     "id": 4,
     "question": "Qu'est ce qui est faux parmi ces quatre images ?",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "image": "quiz1_question4_a.png",
         "is_correct": false
@@ -98,22 +94,18 @@
     "id": 5,
     "question": "Qu'est-ce qui n'est pas possible sur cette illustration ?",
     "image": "quiz1_question5.png",
-    "type": "2",
-    "answers": [
-      {
-        "type": "text",
-        "values": [
-          "lampe", "veilleuse", "lampadaire"
-        ]
-      }
-    ]
+    "input": {
+      "type": "text",
+      "values": [
+        "lampe", "veilleuse", "lampadaire"
+      ]
+    }
   },
   {
     "id": 6,
     "question": "Quel noeud marin n'est fait qu'avec une seule ficelle ?",
     "image": "quiz1_question6.png",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "image": "quiz1_question6_a.png",
         "is_correct": false
@@ -135,8 +127,7 @@
   {
     "id": 7,
     "question": "Laquelle de ces photos ne peut pas être réelle ?",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "image": "quiz1_question7_a.png",
         "is_correct": true
@@ -159,8 +150,7 @@
     "id": 8,
     "question": "Quel mot vient logiquement compléter cette suite ?",
     "text": "Navet\nVêtement\nMentir\nTiramisu\n?",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "text": "Monarque",
         "is_correct": false
@@ -182,8 +172,7 @@
   {
     "id": 9,
     "question": "Quel mot est JUSTE si on le met dans le bon ordre ?",
-    "type": "1",
-    "answers": [
+    "chooses": [
       {
         "text": "Verbe",
         "is_correct": false
@@ -205,35 +194,28 @@
   {
     "id": 10,
     "question": "Un fermier a 10 moutons. Il les donne tous sauf 6.\n Combien lui en reste-t-il ?",
-    "type": "2",
-    "answers": [
-      {
-        "type": "number",
-        "values": [
-          "6"
-        ]
-      }
-    ]
+    "input": {
+      "type": "number",
+      "values": [
+        "6"
+      ]
+    }
   },
   {
     "id": 11,
     "question": "? eniames 1 snad no-t-etpmoc sruoj ed neibmoC",
-    "type": "2",
-    "answers": [
-      {
-        "type": "number",
-        "values": [
-          "7"
-        ]
-      }
-    ]
+    "input": {
+      "type": "number",
+      "values": [
+        "7"
+      ]
+    }
   },
   {
     "id": 12,
     "question": "Dans quel sens faut-il tourner l'engrenage rouge pour rembobiner le tuyau d'arrosage ?",
-    "type": "1",
     "image": "quiz1_question12.png",
-    "answers": [
+    "chooses": [
       {
         "text": "A",
         "is_correct": false
