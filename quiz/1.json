@@ -137,7 +137,7 @@
   {
     "id": 7,
     "question": "Quel mot vient logiquement compléter cette suite ?",
-    "text": "Navet\nVêtement\nMentir\nTiramisu\n?",
+    "image": "quiz1_question7.png",
     "chooses": [
       {
         "text": "Monarque",
@@ -238,29 +238,6 @@
     ]
   },
   {
-    "id": 12,
-    "question": "Quelle couleur est au-dessous de toutes les autres ?",
-    "image": "quiz1_question12.png",
-    "chooses": [
-      {
-        "text": "Rouge",
-        "is_correct": true
-      },
-      {
-        "text": "Orange",
-        "is_correct": false
-      },
-      {
-        "text": "Bleu",
-        "is_correct": false
-      },
-      {
-        "text": "Vert",
-        "is_correct": false
-      }
-    ]
-  },
-  {
     "id": 13,
     "question": "Combien y a-t-il de jambes ?",
     "image": "quiz1_question13.png",
@@ -330,6 +307,7 @@
   {
     "id": 17,
     "question": "Quel est le numéro de la place de parking que la voiture couvre ?",
+    "image": "quiz1_question17.png",
     "input": {
       "type": "number",
       "values": [
@@ -350,6 +328,7 @@
   {
     "id": 19,
     "question": "Aucune des personnes dont le tiens les mains ne porte de orange. La personne qui m'est diamétralement opposée porte des couettes, et je tiens la min d'une personne qui a les cheveux frisés. qui suis-je ?",
+    "image": "quiz1_question19.png",
     "input": {
       "type": "text",
       "values": [
