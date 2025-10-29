@@ -213,5 +213,148 @@
         "is_correct": true
       }
     ]
+  },
+  {
+    "id": 12,
+    "question": "Quelle couleur est au-dessous de toutes les autres ?",
+    "image": "quiz1_question12.png",
+    "chooses": [
+      {
+        "text": "Rouge",
+        "is_correct": true
+      },
+      {
+        "text": "Orange",
+        "is_correct": false
+      },
+      {
+        "text": "Bleu",
+        "is_correct": false
+      },
+      {
+        "text": "Vert",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Quelle couleur est au-dessous de toutes les autres ?",
+    "image": "quiz1_question12.png",
+    "chooses": [
+      {
+        "text": "Rouge",
+        "is_correct": true
+      },
+      {
+        "text": "Orange",
+        "is_correct": false
+      },
+      {
+        "text": "Bleu",
+        "is_correct": false
+      },
+      {
+        "text": "Vert",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Combien y a-t-il de jambes ?",
+    "image": "quiz1_question13.png",
+    "input": {
+      "type": "number",
+      "values": [
+        "15"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "question": "Logiquement, quelle lettre vient complèter cette suite ?",
+    "image": "quiz1_question14.png",
+    "chooses": [
+      {
+        "text": "X",
+        "is_correct": false
+      },
+      {
+        "text": "Y",
+        "is_correct": false
+      },
+      {
+        "text": "Z",
+        "is_correct": false
+      },
+      {
+        "text": "V",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Si votre journal a 20 pages (avec la première de couverture comme page 1 et la quatrième de couverture comme page 20) et que vous lisez chaque page, combien de fois devez-vous tourner la page ?",
+    "input": {
+      "type": "number",
+      "values": [
+        "10"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "question": "Quelle association n'a pas la même caractéristique que les 3 autres ?",
+    "image": "quiz1_question16.png",
+    "chooses": [
+      {
+        "image": "quiz1_question16_a.png",
+        "is_correct": false
+      },
+      {
+        "image": "quiz1_question16_b.png",
+        "is_correct": false
+      },
+      {
+        "image": "quiz1_question16_c.png",
+        "is_correct": false
+      },
+      {
+        "image": "quiz1_question16_d.png",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Quel est le numéro de la place de parking que la voiture couvre ?",
+    "input": {
+      "type": "number",
+      "values": [
+        "87"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "question": "Si le chiffre 3 est associé à mars, le 8 à septembre et le 7 à nouvembre, quel chiffre ser associé à octobre selon cette logique ?",
+    "input": {
+      "type": "number",
+      "values": [
+        "6"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "question": "Aucune des personnes dont le tiens les mains ne porte de orange. La personne qui m'est diamétralement opposée porte des couettes, et je tiens la min d'une personne qui a les cheveux frisés. qui suis-je ?",
+    "input": {
+      "type": "text",
+      "values": [
+        "Tino"
+      ]
+    }
   }
 ]
