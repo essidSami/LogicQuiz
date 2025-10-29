@@ -284,7 +284,6 @@
   {
     "id": 16,
     "question": "Quelle association n'a pas la même caractéristique que les 3 autres ?",
-    "image": "quiz1_question16.png",
     "chooses": [
       {
         "image": "quiz1_question16_a.png",
@@ -333,6 +332,127 @@
       "type": "text",
       "values": [
         "Tino"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "question": "Pouvez-vous résoudre cette énigme ?",
+    "image": "quiz1_question20.png",
+    "input": {
+      "type": "text",
+      "values": [
+        "0:17"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "question": "Complétez cette suite logique.",
+    "image": "quiz1_question21.png",
+    "input": {
+      "type": "number",
+      "values": [
+        "6"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "question": "Logiquement, quel symbole remplace le point d'interrogation ?",
+    "image": "quiz1_question22.png",
+    "chooses": [
+      {
+        "image": "quiz1_question22_a.png",
+        "is_correct": false
+      },
+      {
+        "image": "quiz1_question22_b.png",
+        "is_correct": false
+      },
+      {
+        "image": "quiz1_question22_c.png",
+        "is_correct": true
+      },
+      {
+        "image": "quiz1_question22_d.png",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Quel est le résultat de la dernière addition ?",
+    "image": "quiz1_question23.png",
+    "input": {
+      "type": "number",
+      "values": [
+        "15"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "question": "Quel tasse se remplira la première ?",
+    "image": "quiz1_question24.png",
+    "chooses": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      },
+      {
+        "text": "D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Si vous comptez de 1 jusqu'à 100,\ncombien de 7 allez-vous rencontrer?",
+    "input": {
+      "type": "number",
+      "values": [
+        "20"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "question": "Déchiffrez ce code et vous trouvez l'intrus.",
+    "chooses": [
+      {
+        "text": "LAHTDCD",
+        "is_correct": false
+      },
+      {
+        "text": "MAMTO",
+        "is_correct": false
+      },
+      {
+        "text": "LAVQ",
+        "is_correct": false
+      },
+      {
+        "text": "GBLIAU",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Quel est le code du cadenas ?",
+    "input": {
+      "type": "number",
+      "values": [
+        "752"
       ]
     }
   }
