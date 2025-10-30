@@ -340,7 +340,7 @@
     "question": "Pouvez-vous résoudre cette énigme ?",
     "image": "quiz1_question20.png",
     "input": {
-      "type": "text",
+      "type": "time",
       "values": [
         "0:17"
       ]
