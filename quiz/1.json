@@ -426,29 +426,18 @@
   },
   {
     "id": 26,
-    "question": "Déchiffrez ce code et vous trouvez l'intrus.",
-    "chooses": [
-      {
-        "text": "LAHTDCD",
-        "is_correct": false
-      },
-      {
-        "text": "MAMTO",
-        "is_correct": false
-      },
-      {
-        "text": "LAVQ",
-        "is_correct": false
-      },
-      {
-        "text": "GBLIAU",
-        "is_correct": true
-      }
-    ]
+    "question": "Quel est le nombre manquant dans le cercle ?",
+    "input": {
+      "type": "number",
+      "values": [
+        "6"
+      ]
+    }
   },
   {
     "id": 27,
     "question": "Quel est le code du cadenas ?",
+    "image": "quiz1_question27.png",
     "input": {
       "type": "number",
       "values": [
