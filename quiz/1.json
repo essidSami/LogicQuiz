@@ -184,6 +184,7 @@
     "question": "Un fermier a 10 moutons. Il les donne tous sauf 6.\n Combien lui en reste-t-il ?",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "6"
       ]
@@ -193,9 +194,11 @@
     "id": 10,
     "question": "? eniames 1 snad no-t-etpmoc sruoj ed neibmoC",
     "input": {
-      "type": "number",
+      "type": "text",
+      "size": 20,
       "values": [
-        "7"
+        "7",
+        "sept"
       ]
     }
   },
@@ -243,6 +246,7 @@
     "image": "quiz1_question13.png",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "15"
       ]
@@ -276,6 +280,7 @@
     "question": "Si votre journal a 20 pages (avec la première de couverture comme page 1 et la quatrième de couverture comme page 20) et que vous lisez chaque page, combien de fois devez-vous tourner la page ?",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "10"
       ]
@@ -309,6 +314,7 @@
     "image": "quiz1_question17.png",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "87"
       ]
@@ -319,6 +325,7 @@
     "question": "Si le chiffre 3 est associé à mars, le 8 à septembre et le 7 à nouvembre, quel chiffre ser associé à octobre selon cette logique ?",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "6"
       ]
@@ -330,6 +337,7 @@
     "image": "quiz1_question19.png",
     "input": {
       "type": "text",
+      "size": 20,
       "values": [
         "Tino"
       ]
@@ -342,7 +350,8 @@
     "input": {
       "type": "time",
       "values": [
-        "0:17"
+        "0:17",
+        "00:17"
       ]
     }
   },
@@ -352,6 +361,7 @@
     "image": "quiz1_question21.png",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "6"
       ]
@@ -386,6 +396,7 @@
     "image": "quiz1_question23.png",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "15"
       ]
@@ -419,6 +430,7 @@
     "question": "Si vous comptez de 1 jusqu'à 100,\ncombien de 7 allez-vous rencontrer?",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "20"
       ]
@@ -429,6 +441,7 @@
     "question": "Quel est le nombre manquant dans le cercle ?",
     "input": {
       "type": "number",
+      "size": 2,
       "values": [
         "6"
       ]
@@ -440,6 +453,7 @@
     "image": "quiz1_question27.png",
     "input": {
       "type": "number",
+      "size": 3,
       "values": [
         "752"
       ]
